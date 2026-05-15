@@ -1,4 +1,4 @@
-# Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API
+# Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C#-Web-API
 
 ![GitHub stars](https://img.shields.io/github/stars/sayarshakya/Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API.git?style=for-the-badge&logo=github) ![GitHub forks](https://img.shields.io/github/forks/sayarshakya/Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API.git?style=for-the-badge&logo=github) ![GitHub issues](https://img.shields.io/github/issues/sayarshakya/Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API.git?style=for-the-badge&logo=github) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
@@ -8,7 +8,6 @@
 - [Tech Stack](#tech-stack)
 - [Quick Start](#quick-start)
 - [Key Dependencies](#key-dependencies)
-- [Screenshots](#screenshots)
 - [Project Structure](#project-structure)
 - [Development Setup](#development-setup)
 - [Contributing](#contributing)
@@ -37,18 +36,6 @@ dotnet restore && dotnet run
 ```
 Microsoft.AspNetCore.OpenApi: 10.0.7
 ```
-
-## 📸 Screenshots
-
-> **Tip:** You can auto-generate a beautiful project mockup image using the **Screenshot** button above!
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Main+Application+View" alt="Main Application View" width="80%"/>
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Feature+Showcase" alt="Feature Showcase" width="80%"/>
-</p>
 
 ## 📁 Project Structure
 
