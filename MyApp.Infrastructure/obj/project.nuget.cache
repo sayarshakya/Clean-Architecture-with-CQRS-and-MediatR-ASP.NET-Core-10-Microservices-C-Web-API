@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X2leMVduEbg=",
+  "dgSpecHash": "3eqhQ1HjfKo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

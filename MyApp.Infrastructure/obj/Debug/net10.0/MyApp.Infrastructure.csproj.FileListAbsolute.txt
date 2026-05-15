@@ -36,3 +36,23 @@ C:\Users\Dell\source\repos\Clean Architecture with CQRS and MediatR\MyApp.Infras
 C:\Users\Dell\source\repos\Clean Architecture with CQRS and MediatR\MyApp.Infrastructure\obj\Debug\net10.0\MyApp.Infrastructure.pdb
 C:\Users\Dell\source\repos\Clean Architecture with CQRS and MediatR\MyApp.Infrastructure\obj\Debug\net10.0\MyApp.Infrastructure.genruntimeconfig.cache
 C:\Users\Dell\source\repos\Clean Architecture with CQRS and MediatR\MyApp.Infrastructure\obj\Debug\net10.0\ref\MyApp.Infrastructure.dll
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\bin\Debug\net10.0\MyApp.Infrastructure.deps.json
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\bin\Debug\net10.0\MyApp.Infrastructure.runtimeconfig.json
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\bin\Debug\net10.0\MyApp.Infrastructure.dll
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\bin\Debug\net10.0\MyApp.Infrastructure.pdb
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\bin\Debug\net10.0\MyApp.Application.dll
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\bin\Debug\net10.0\MyApp.Domain.dll
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\bin\Debug\net10.0\MyApp.Application.pdb
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\bin\Debug\net10.0\MyApp.Domain.pdb
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\obj\Debug\net10.0\MyApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\obj\Debug\net10.0\MyApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\obj\Debug\net10.0\MyApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\obj\Debug\net10.0\MyApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\obj\Debug\net10.0\MyApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\obj\Debug\net10.0\MyApp.Infrastructure.sourcelink.json
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\obj\Debug\net10.0\MyApp.In.4513676F.Up2Date
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\obj\Debug\net10.0\MyApp.Infrastructure.dll
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\obj\Debug\net10.0\refint\MyApp.Infrastructure.dll
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\obj\Debug\net10.0\MyApp.Infrastructure.pdb
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\obj\Debug\net10.0\MyApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Infrastructure\obj\Debug\net10.0\ref\MyApp.Infrastructure.dll

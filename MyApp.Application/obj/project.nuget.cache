@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3aOhQmdNkKM=",
+  "dgSpecHash": "AvgiJPxrvtw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Application\\MyApp.Application.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Application\\MyApp.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\mediatr\\14.1.0\\mediatr.14.1.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

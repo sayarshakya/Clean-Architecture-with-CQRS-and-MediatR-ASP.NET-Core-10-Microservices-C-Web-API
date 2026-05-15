@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj": {}
+    "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Application\\MyApp.Application.csproj": {
+    "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Application\\MyApp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Application\\MyApp.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Application\\MyApp.Application.csproj",
         "projectName": "MyApp.Application",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Application\\MyApp.Application.csproj",
+        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Application\\MyApp.Application.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Application\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,8 +34,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Domain\\MyApp.Domain.csproj": {
-                "projectPath": "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Domain\\MyApp.Domain.csproj"
+              "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Domain\\MyApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Domain\\MyApp.Domain.csproj"
               }
             }
           }
@@ -356,14 +356,14 @@
         }
       }
     },
-    "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Domain\\MyApp.Domain.csproj": {
+    "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Domain\\MyApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Domain\\MyApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Domain\\MyApp.Domain.csproj",
         "projectName": "MyApp.Domain",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Domain\\MyApp.Domain.csproj",
+        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Domain\\MyApp.Domain.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -708,14 +708,14 @@
         }
       }
     },
-    "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj": {
+    "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
         "projectName": "MyApp.Infrastructure",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -738,8 +738,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Application\\MyApp.Application.csproj": {
-                "projectPath": "C:\\Users\\Dell\\source\\repos\\Clean Architecture with CQRS and MediatR\\MyApp.Application\\MyApp.Application.csproj"
+              "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Application\\MyApp.Application.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\\MyApp.Application\\MyApp.Application.csproj"
               }
             }
           }

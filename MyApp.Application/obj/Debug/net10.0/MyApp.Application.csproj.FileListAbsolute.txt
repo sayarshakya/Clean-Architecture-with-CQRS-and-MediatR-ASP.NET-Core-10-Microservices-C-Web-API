@@ -28,3 +28,19 @@ C:\Users\Dell\source\repos\Clean Architecture with CQRS and MediatR\MyApp.Applic
 C:\Users\Dell\source\repos\Clean Architecture with CQRS and MediatR\MyApp.Application\obj\Debug\net10.0\refint\MyApp.Application.dll
 C:\Users\Dell\source\repos\Clean Architecture with CQRS and MediatR\MyApp.Application\obj\Debug\net10.0\MyApp.Application.pdb
 C:\Users\Dell\source\repos\Clean Architecture with CQRS and MediatR\MyApp.Application\obj\Debug\net10.0\ref\MyApp.Application.dll
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Application\bin\Debug\net10.0\MyApp.Application.deps.json
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Application\bin\Debug\net10.0\MyApp.Application.dll
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Application\bin\Debug\net10.0\MyApp.Application.pdb
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Application\bin\Debug\net10.0\MyApp.Domain.dll
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Application\bin\Debug\net10.0\MyApp.Domain.pdb
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Application\obj\Debug\net10.0\MyApp.Application.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Application\obj\Debug\net10.0\MyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Application\obj\Debug\net10.0\MyApp.Application.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Application\obj\Debug\net10.0\MyApp.Application.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Application\obj\Debug\net10.0\MyApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Application\obj\Debug\net10.0\MyApp.Application.sourcelink.json
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Application\obj\Debug\net10.0\MyApp.Ap.B540CA8A.Up2Date
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Application\obj\Debug\net10.0\MyApp.Application.dll
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Application\obj\Debug\net10.0\refint\MyApp.Application.dll
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Application\obj\Debug\net10.0\MyApp.Application.pdb
+C:\Users\Dell\Documents\GitHub\Clean-Architecture-with-CQRS-and-MediatR-ASP.NET-Core-10-Microservices-C-Web-API\MyApp.Application\obj\Debug\net10.0\ref\MyApp.Application.dll
